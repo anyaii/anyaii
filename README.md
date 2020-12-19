@@ -1,4 +1,11 @@
-### Hi there 👋
+### Francesca Anastasia 
+\#BicRollCall
+
+- 👋 Hello, world!&nbsp; I'm an amateur coder fluent in BASIC, batchfile, CSS, and HTML.&nbsp; 
+- 🌱 I’m currently learning JavaScript, and Python.&nbsp; 
+- 📫 How to reach me:&nbsp; 
+  - GitHub:&nbsp; @anyaii&nbsp; 
+  - Twitter:&nbsp; @anyaii
 
 <!--
 **anyaii/anyaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
